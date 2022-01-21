@@ -52,11 +52,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-<br/>
-<br/>
-
-<a href="https://github.com/Avinash-Singh-G/github-readme-activity-graph"><img alt="Avinash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Avinash-Singh-G&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <!---
 Avinash-Singh-G/Avinash-Singh-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
