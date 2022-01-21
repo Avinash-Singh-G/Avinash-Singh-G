@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: [Gmail](avinashsingh2161@gmail.com) , [LinkedIn](https://www.linkedin.com/in/avinash-singh-b992ba1ba/)
 
-- ⚡ Fun fact **I play videogames on a macbook 🤡.**
+- ⚡ Fun fact: **I play videogames on a macbook 🤡.**
 
 ## 🚀 Languages and Tools:
 
@@ -45,11 +45,12 @@
 ## 📊 My Github Stats
 
   <br/>
+  <p align="center">
     <a href="https://github.com/Avinash-Singh-G/github-readme-stats"><img alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Avinash-Singh-G&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Avinash-Singh-G/github-readme-stats"><img alt="Avinash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-Singh-G&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+</p>
 
 <br/>
 <br/>
