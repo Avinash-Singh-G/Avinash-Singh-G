@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Avinash</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer and ML enthusiast.</h3>
-
+<br>
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning React JS
@@ -12,7 +12,7 @@
 - 📫 How to reach me: [Gmail](avinashsingh2161@gmail.com) , [LinkedIn](https://www.linkedin.com/in/avinash-singh-b992ba1ba/)
 
 - ⚡ Fun fact: **I play videogames on a macbook 🤡.**
-
+<br>
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -41,7 +41,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Avinash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Avinash-Singh-G&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
+<br>
 ## 📊 My Github Stats
 
   <br/>
