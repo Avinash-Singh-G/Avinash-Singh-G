@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: [Gmail](avinashsingh2161@gmail.com) , [LinkedIn](https://www.linkedin.com/in/avinash-singh-b992ba1ba/)
 
-- ⚡ Fun fact: **I play videogames on a macbook 🤡.**
+- ⚡ Fun fact: **I love playing football ⚽️.**
 <br/>
 
 ## 🚀 Languages and Tools:
@@ -34,7 +34,6 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" height="40"/></a>
-    <a href="https://flutter.dev/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/flutter.png" width="40" height="40"/></a>
 </p>
 <br/>
 
