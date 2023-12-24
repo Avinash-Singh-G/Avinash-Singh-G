@@ -1,7 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I'm Avinash</h1>
-<h3 align="center">I'm a passionate Flutter Developer and Backend Developer.</h3>
+<h3 align="center">I'm a passionate Software Engineer.</h3>
 <br/>
 
 ## 🙋‍♂️ About Me
@@ -31,7 +29,7 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://react.dev/" target="_blank"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="react" width="40" height="40"/> </a>
 </p>
 <br/>
 
