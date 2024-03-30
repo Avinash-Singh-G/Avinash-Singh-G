@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning DevOps and Flutter
 
 <!--- 👨‍💻 All of my projects are available at **[My Portfolio]()**--->
 
@@ -30,6 +30,8 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://react.dev/" target="_blank"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="react" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373553/docker.svg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.svgrepo.com/show/448233/kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a>
 </p>
 <br/>
 
